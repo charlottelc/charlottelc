@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @charlottelc. I am a students in the Masters program for Library and Information Science at Simmons University. 
+- 👋 Hi, I’m @charlottelc. I am a student in the Masters program for Library and Information Science at Simmons University. 
 - 👀 I’m interested in learning basic coding.
 - 🌱 I’m currently learning the absolute basics.
 - 💞️ I’m looking to collaborate on nothing yet!
